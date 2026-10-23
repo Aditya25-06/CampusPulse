@@ -1,7 +1,7 @@
 # 🎓 College Placement Analytics System (Tkinter Edition)
-Name: Aditya Mangalam
-UID: 26MCC20078
-Department: MCA (Cloud Computing and DevOps)
+Name: Aditya Mangalam ||
+UID: 26MCC20078 ||
+Department: MCA (Cloud Computing and DevOps) ||
 University: Chandigarh University
 
 A simple desktop app that analyses campus placement data, draws charts and predicts a student's chance of placement.
